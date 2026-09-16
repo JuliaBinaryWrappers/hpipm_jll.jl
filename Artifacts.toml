@@ -1,0 +1,168 @@
+[[hpipm]]
+arch = "x86_64"
+git-tree-sha1 = "372c78cfec86ba1a475744464ad271db0a579b65"
+lazy = true
+libc = "glibc"
+march = "x86_64"
+os = "linux"
+
+    [[hpipm.download]]
+    sha256 = "a3f7bd890eb9d1e9ce375f4abceee5d0b530af8632bd22f548d191a835536454"
+    url = "https://github.com/JuliaBinaryWrappers/hpipm_jll.jl/releases/download/hpipm-v0.1.4+0/hpipm.v0.1.4.x86_64-linux-gnu-march+x86_64.tar.gz"
+[[hpipm]]
+arch = "x86_64"
+git-tree-sha1 = "366e1801cd7e8ee878eb3b1541560b35a5c95336"
+lazy = true
+libc = "glibc"
+march = "avx"
+os = "linux"
+
+    [[hpipm.download]]
+    sha256 = "17cd8d90b0d4af9c468ef70ae3a473687b94ea7d5c11890ac3bb2a532be8e3ec"
+    url = "https://github.com/JuliaBinaryWrappers/hpipm_jll.jl/releases/download/hpipm-v0.1.4+0/hpipm.v0.1.4.x86_64-linux-gnu-march+avx.tar.gz"
+[[hpipm]]
+arch = "x86_64"
+git-tree-sha1 = "366e1801cd7e8ee878eb3b1541560b35a5c95336"
+lazy = true
+libc = "glibc"
+march = "avx2"
+os = "linux"
+
+    [[hpipm.download]]
+    sha256 = "17cd8d90b0d4af9c468ef70ae3a473687b94ea7d5c11890ac3bb2a532be8e3ec"
+    url = "https://github.com/JuliaBinaryWrappers/hpipm_jll.jl/releases/download/hpipm-v0.1.4+0/hpipm.v0.1.4.x86_64-linux-gnu-march+avx2.tar.gz"
+[[hpipm]]
+arch = "x86_64"
+git-tree-sha1 = "06982b9f955aff54a5454c456c69776d679ab4e3"
+lazy = true
+libc = "glibc"
+march = "avx512"
+os = "linux"
+
+    [[hpipm.download]]
+    sha256 = "aa206f917f9082ee9e93c56a61e5c4aeb0c39066974c1eb18c3383b1f9d2b209"
+    url = "https://github.com/JuliaBinaryWrappers/hpipm_jll.jl/releases/download/hpipm-v0.1.4+0/hpipm.v0.1.4.x86_64-linux-gnu-march+avx512.tar.gz"
+[[hpipm]]
+arch = "x86_64"
+git-tree-sha1 = "d3de4c152fa7e9bb4ba280eeecd473b9353bb768"
+lazy = true
+libc = "musl"
+march = "x86_64"
+os = "linux"
+
+    [[hpipm.download]]
+    sha256 = "c6c7bd5cc5a7a3c63d8600638c7afe2a72d2588da5d40209d13924997ff872fa"
+    url = "https://github.com/JuliaBinaryWrappers/hpipm_jll.jl/releases/download/hpipm-v0.1.4+0/hpipm.v0.1.4.x86_64-linux-musl-march+x86_64.tar.gz"
+[[hpipm]]
+arch = "x86_64"
+git-tree-sha1 = "d77c62efaa37530cbcba17278f0f4a18c7c62b9c"
+lazy = true
+libc = "musl"
+march = "avx"
+os = "linux"
+
+    [[hpipm.download]]
+    sha256 = "679333c9c2cd55021103041cb1037242e706a755e4b23fd41422c909c19d8c7a"
+    url = "https://github.com/JuliaBinaryWrappers/hpipm_jll.jl/releases/download/hpipm-v0.1.4+0/hpipm.v0.1.4.x86_64-linux-musl-march+avx.tar.gz"
+[[hpipm]]
+arch = "x86_64"
+git-tree-sha1 = "d77c62efaa37530cbcba17278f0f4a18c7c62b9c"
+lazy = true
+libc = "musl"
+march = "avx2"
+os = "linux"
+
+    [[hpipm.download]]
+    sha256 = "679333c9c2cd55021103041cb1037242e706a755e4b23fd41422c909c19d8c7a"
+    url = "https://github.com/JuliaBinaryWrappers/hpipm_jll.jl/releases/download/hpipm-v0.1.4+0/hpipm.v0.1.4.x86_64-linux-musl-march+avx2.tar.gz"
+[[hpipm]]
+arch = "x86_64"
+git-tree-sha1 = "50ce24a3f5d42455583e73803875eef7f4111d22"
+lazy = true
+libc = "musl"
+march = "avx512"
+os = "linux"
+
+    [[hpipm.download]]
+    sha256 = "b2606db364e209d96854e69a17345f1c116b26707ab18f4c1b68a64a1df23ce5"
+    url = "https://github.com/JuliaBinaryWrappers/hpipm_jll.jl/releases/download/hpipm-v0.1.4+0/hpipm.v0.1.4.x86_64-linux-musl-march+avx512.tar.gz"
+[[hpipm]]
+arch = "x86_64"
+git-tree-sha1 = "016bcbec8cfc0ea7e3dcf6b4bb6da1c64d5202b9"
+lazy = true
+march = "x86_64"
+os = "windows"
+
+    [[hpipm.download]]
+    sha256 = "075c490344d643e511066036730663b8de264ff856255fc0a6d3e8aa5e859681"
+    url = "https://github.com/JuliaBinaryWrappers/hpipm_jll.jl/releases/download/hpipm-v0.1.4+0/hpipm.v0.1.4.x86_64-w64-mingw32-march+x86_64.tar.gz"
+[[hpipm]]
+arch = "x86_64"
+git-tree-sha1 = "93cba0768db0ca9edc3415c96bd67a3637713119"
+lazy = true
+march = "avx"
+os = "windows"
+
+    [[hpipm.download]]
+    sha256 = "71d67b0805b0cb1dd696e66512d6a90403c6ceb35ec9d4c3989a1d65e50f20ee"
+    url = "https://github.com/JuliaBinaryWrappers/hpipm_jll.jl/releases/download/hpipm-v0.1.4+0/hpipm.v0.1.4.x86_64-w64-mingw32-march+avx.tar.gz"
+[[hpipm]]
+arch = "x86_64"
+git-tree-sha1 = "00397e53fc04d55ebab2de63005266a45b505f6e"
+lazy = true
+march = "avx2"
+os = "windows"
+
+    [[hpipm.download]]
+    sha256 = "2c3687ab17fa8f83b9ed3efcc84e80d8b3c706bd1865e4e58c8ff6722344f959"
+    url = "https://github.com/JuliaBinaryWrappers/hpipm_jll.jl/releases/download/hpipm-v0.1.4+0/hpipm.v0.1.4.x86_64-w64-mingw32-march+avx2.tar.gz"
+[[hpipm]]
+arch = "x86_64"
+git-tree-sha1 = "1a247a01f513cc91994543a6487d89377aa713c7"
+lazy = true
+march = "avx512"
+os = "windows"
+
+    [[hpipm.download]]
+    sha256 = "448b09e4d04abb8988262da88b5df8907a31e794c13734c68df891a8aa94c314"
+    url = "https://github.com/JuliaBinaryWrappers/hpipm_jll.jl/releases/download/hpipm-v0.1.4+0/hpipm.v0.1.4.x86_64-w64-mingw32-march+avx512.tar.gz"
+[[hpipm]]
+arch = "x86_64"
+git-tree-sha1 = "c4b49ef0aec0d4606d98a4747cc0658748d2bbdc"
+lazy = true
+march = "x86_64"
+os = "macos"
+
+    [[hpipm.download]]
+    sha256 = "521a06da69c0a996eb53ea0d250acba49e1d2567aee4882cc82d78fe855b5d0e"
+    url = "https://github.com/JuliaBinaryWrappers/hpipm_jll.jl/releases/download/hpipm-v0.1.4+0/hpipm.v0.1.4.x86_64-apple-darwin-march+x86_64.tar.gz"
+[[hpipm]]
+arch = "x86_64"
+git-tree-sha1 = "9c34fdea6320b9b8becfdfd13b881b1fec072e24"
+lazy = true
+march = "avx"
+os = "macos"
+
+    [[hpipm.download]]
+    sha256 = "421fba088735ad50603a9c9c4d759aa6684d45d7bb56d0ac34e5132977e4548d"
+    url = "https://github.com/JuliaBinaryWrappers/hpipm_jll.jl/releases/download/hpipm-v0.1.4+0/hpipm.v0.1.4.x86_64-apple-darwin-march+avx.tar.gz"
+[[hpipm]]
+arch = "x86_64"
+git-tree-sha1 = "9c34fdea6320b9b8becfdfd13b881b1fec072e24"
+lazy = true
+march = "avx2"
+os = "macos"
+
+    [[hpipm.download]]
+    sha256 = "421fba088735ad50603a9c9c4d759aa6684d45d7bb56d0ac34e5132977e4548d"
+    url = "https://github.com/JuliaBinaryWrappers/hpipm_jll.jl/releases/download/hpipm-v0.1.4+0/hpipm.v0.1.4.x86_64-apple-darwin-march+avx2.tar.gz"
+[[hpipm]]
+arch = "aarch64"
+git-tree-sha1 = "7dfc04899709ee69e318b9cf9c1244917462a467"
+lazy = true
+march = "apple_m1"
+os = "macos"
+
+    [[hpipm.download]]
+    sha256 = "d5e5e3de48c1446447c1d676075ded59be66ae83b6099e87c1963e3e6f858e89"
+    url = "https://github.com/JuliaBinaryWrappers/hpipm_jll.jl/releases/download/hpipm-v0.1.4+0/hpipm.v0.1.4.aarch64-apple-darwin-march+apple_m1.tar.gz"
